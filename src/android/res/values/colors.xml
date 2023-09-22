@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#1379DF</color>
+    <color name="colorPrimaryDark">#1D1D1D</color>
+    <color name="colorAccent">#9C27B0</color>
+    <color name="page_indicator">#C10015</color>
+    <color name="toolbar">#1379DF</color>
+</resources>

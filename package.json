@@ -1,9 +1,9 @@
 {
-  "name": "net-kuama-plugins-pdfreader",
-  "version": "0.1.0",
+  "name": "cordova-pdf-reader",
+  "version": "1.0.0",
   "description": "Cordova bridge for iOS PdfKit and android muPDF",
   "cordova": {
-    "id": "net-kuama-plugins-pdfreader",
+    "id": "cordova-pdf-reader",
     "platforms": [
       "ios",
       "android"

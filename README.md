@@ -3,7 +3,7 @@ This plugin allows to show, search and watermark a base64 encoded pdf.
 It leverages swift's [PDFKit](https://developer.apple.com/documentation/pdfkit) and [mupdf](https://mupdf.com/) android porting to show and search the pdf.
 ## Installation
 ```
-cordova plugin add net-kuama-plugins-pdfreader
+cordova plugin add cordova-pdf-reader
 ```
 
 ## Supported Platform
